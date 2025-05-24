@@ -1,4 +1,4 @@
-# ai-project
+# Sentiment Analysis project
 Sentiment analysis is a technique used to determine whether a piece of text expresses positive, negative, or neutral emotions. It helps computers understand human feelings in reviews, tweets, comments, and more.
 
 Example:
